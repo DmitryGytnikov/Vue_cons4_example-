@@ -1,4 +1,4 @@
 <template>
-	<div></div>
+	<Component1 />
 	<NuxtPage></NuxtPage>
 </template>
